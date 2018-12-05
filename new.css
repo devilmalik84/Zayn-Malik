@@ -1,0 +1,76 @@
+body {
+	background-color: black;
+}
+#box1 {
+	position: absolute;
+	height: 100px;
+	width: 100px;
+    background-color: #470606;
+	border-style: solid;
+	border-width: thin;
+	border-color: #ff0000;
+	left: 360px;
+	top: 300px;
+
+
+
+}
+#box2 {
+	position: absolute;
+	height: 100px;
+	width: 100px;
+	background-color: #3d8f3d;
+	border-style: solid;
+	border-width: thin;
+	border-color: #00cc00;
+	left: 470px;
+	top: 300px;
+}
+#box3 {
+	position: absolute;
+	height: 100px;
+	width: 100px;
+	background-color: #1a66ff;
+	border-style: solid;
+	border-width: thin;
+	border-color: #003399;
+	left: 580px;
+	top: 300px;
+}
+#box4 {
+	position: absolute;
+	height: 100px;
+	width: 100px;
+	background-color: #cc0099;
+	border-style: solid;
+	border-width: thin;
+	border-color: #cc00cc;
+	left: 690px;
+	top: 300px;
+
+}
+#box5 {
+	position: absolute;
+	height: 100px;
+	width: 100px;
+	background-color: #ffff66;
+	border-style: solid;
+	border-width: thin;
+	border-color: #e6e600;
+	left: 800px;
+	top: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
